@@ -1,7 +1,7 @@
 streamlit
 streamlit_ace
 streamlit_authenticator
-yaml
+PyYAML
 json
 requests
 base64
