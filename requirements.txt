@@ -1,5 +1,3 @@
-pathlib
-pickle
 streamlit
 streamlit_ace
 streamlit_authenticator
