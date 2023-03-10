@@ -2,7 +2,7 @@ streamlit
 streamlit_ace
 streamlit_authenticator
 PyYAML
-json
+pypi-json
 requests
 base64
 subprocess
