@@ -4,7 +4,7 @@ streamlit_authenticator
 PyYAML
 pypi-json
 requests
-base64
+pybase64
 subprocess
 os
 openai
