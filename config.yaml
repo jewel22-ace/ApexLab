@@ -1,0 +1,25 @@
+cookie:
+  expiry_days: 30
+  key: $2b$12$q50yohRPpTxzjFDGDB1RhuzYlEGeb.aJWw53pW4X2E36ui1EMFoCi
+  name: cookie
+credentials:
+  usernames:
+    j22:
+      email: mosaif.ali.39@gmail.com
+      name: Mosaif Ali
+      password: $2b$12$CttlNJvh9ydrEKQrCcTd8OdTTezHeIoqMtXTLoP0WCiwK78NTZjNu
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$0LHmm7V6ucKJlsX0QFdM4u.qyisCfFGDW4WwyhKrNEiIefqkSUiyK
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$hK2cprE1wubmvAjS5JV8X.LMl7OXUdx42e0SRRWROyArHsFFCWsC.
+    test:
+      email: test123#gmail.com
+      name: Guru
+      password: $2b$12$Yi2TSjuUHV44Y3EpzH4yWeEGkFvNRABmPhZ4CvgQVz5NdfOE/x3Wa
+preauthorized:
+  emails:
+  - melsby@gmail.com
