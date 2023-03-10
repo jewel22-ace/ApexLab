@@ -5,6 +5,4 @@ PyYAML
 pypi-json
 requests
 pybase64
-subprocess
-os
 openai
